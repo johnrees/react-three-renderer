@@ -16,6 +16,7 @@
 * [[shaderMaterial]]: Creates a [THREE.ShaderMaterial](http://threejs.org/docs/#Reference/Materials/ShaderMaterial)
   * [[uniforms]]: A container for [THREE.ShaderMaterial#uniforms](http://threejs.org/docs/#Reference/Materials/ShaderMaterial.uniforms).
     * [[uniform]]: A single uniform value for a shader material.
+* [[shadowMaterial]]: Creates a [THREE.ShadowMaterial](http://threejs.org/docs/#Reference/Materials/ShadowMaterial)
 * [[rawShaderMaterial]]: Creates a [THREE.RawShaderMaterial](http://threejs.org/docs/#Reference/Materials/RawShaderMaterial).
 * [[meshStandardMaterial]]: Creates a [THREE.MeshStandardMaterial](https://threejs.org/docs/#Reference/Materials/MeshStandardMaterial)
 * TODO:
